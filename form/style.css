@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+}
+fieldset {
+    border-width: 2px;
+    border-style: solid #black;
+    border-image: initial;
+}
+#botao{
+    text-align: center
+}
+.Botao_salvar{
+    position: absolute;
+    top: 380px;
+    left: 47%;
+    border: 1px solid #eee;
+    border-radius: 5px;
+    background-color: #FCC302;
+    font-size: 16px;
+    width: 20px 0px;
+    padding: 15px 30px;
+
+}
+.fost1{
+    float: left;
+    width: 48%;
+}
+.fost2{
+    float: right;
+    width: 48%;
+}
